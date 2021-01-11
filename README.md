@@ -1,5 +1,5 @@
 # Namaste 
-https://banner2.cleanpng.com/20180621/uby/kisspng-rishikesh-meditation-yoga-himalayas-clip-art-5b2c522ca28031.8049771115296312766656.jpg
+<img src="https://banner2.cleanpng.com/20180621/uby/kisspng-rishikesh-meditation-yoga-himalayas-clip-art-5b2c522ca28031.8049771115296312766656.jpg" />
 I am a cybersecurity student who loves to learn, teach and create.
 - 📫 How to reach me: Twitter
 <!--
