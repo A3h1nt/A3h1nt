@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![A3h1nt's Github Stats](https://github-readme-stats.vercel.app/api?username=a3h1nt&show_icons=true&theme=gotham)
 
 <a href="https://github.com/a3h1nt">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3h1nt&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3h1nt&show_icons=true&theme=gotham&layout=compact" alt"Most use languages"/>
 </a>
 <br>
 
