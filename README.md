@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/a3h1nt">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3h1nt&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
 </a>
-<br />
+<br>
 
