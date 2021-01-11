@@ -1,7 +1,7 @@
 # Namaste 😊🙏
 
 I am a cybersecurity student who loves to learn, teach and create.
-- 📫 How to reach me: Twitter
+
 <!--
 **A3h1nt/A3h1nt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
