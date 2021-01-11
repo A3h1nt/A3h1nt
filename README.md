@@ -12,12 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://twitter.com/a3h1nt">
-  <img align="left" alt="a3h1nt| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<br>
+
 ![A3h1nt's Github Stats](https://github-readme-stats.vercel.app/api?username=a3h1nt&show_icons=true&theme=gotham)
-<br>
+
 <a href="https://github.com/a3h1nt">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3h1nt&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
 </a>
