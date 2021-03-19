@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![A3h1nt's Github Stats](https://github-readme-stats.vercel.app/api?username=a3h1nt&show_icons=true&theme=dark)
+![A3h1nt's Github Stats](https://github-readme-stats.vercel.app/api?username=a3h1nt&show_icons=true&theme=calm)
 
 <a href="https://github.com/a3h1nt">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3h1nt&show_icons=true&theme=dark&layout=compact" alt"Most use languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3h1nt&show_icons=true&theme=calm&layout=compact" alt"Most use languages"/>
 </a>
 <br>
 
