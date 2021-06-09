@@ -1,4 +1,4 @@
-A cybersecurity student who loves to learn, teach and create.
+If you can't give it all, forget it.
 
 <!--
 **A3h1nt/A3h1nt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
