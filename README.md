@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 ![A3h1nt's Github Stats](https://github-readme-stats.vercel.app/api?username=a3h1nt&show_icons=true&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a3h1nt)](https://github.com/anuraghazra/github-readme-stats)
 
 
