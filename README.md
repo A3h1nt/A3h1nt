@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![A3h1nt's Github Stats](https://github-readme-stats.vercel.app/api?username=a3h1nt&show_icons=true&theme=onedark)
+![A3h1nt's Github Stats](https://github-readme-stats.vercel.app/api?username=a3h1nt&show_icons=true&theme=gotham)
 
-<a href="https://github.com/a3h1nt">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3h1nt&show_icons=true&theme=onedark&layout=compact" alt"Most use languages"/>
-</a>
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a3h1nt)](https://github.com/anuraghazra/github-readme-stats)
+
 
